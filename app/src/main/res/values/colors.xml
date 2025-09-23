@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="pink">#ff1493</color>
     <color name="pink_mawar">#ff007f</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>

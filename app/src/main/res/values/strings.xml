@@ -2,7 +2,10 @@
     <string name="app_name">My App</string>
     <string name="lable_name">Boothtify</string>
     <string name="Button_text">Hitung</string>
-    <string name="Login">Login</string>
+    <string name="createAccount">Create Account</string>
+    <string name="Login">Log In</string>
     <string name="Username">Username</string>
     <string name="Password">Password</string>
+    <string name="welcome">Welcome =)</string>
+    <string name="subTitle">Hi there!! \nCome in and start creating. Turn your spontaneous moments into stylish photos and share your joy with us.</string>
 </resources>
