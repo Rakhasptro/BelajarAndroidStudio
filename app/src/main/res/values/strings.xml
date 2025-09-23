@@ -8,4 +8,10 @@
     <string name="Password">Password</string>
     <string name="welcome">Welcome =)</string>
     <string name="subTitle">Hi there!! \nCome in and start creating. Turn your spontaneous moments into stylish photos and share your joy with us.</string>
+    <string name="back_btn">&lt; Back</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="subTitle_welcome_back">New memories await \nLog in and start capturing your unforgettable moments</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forgot password?</string>
 </resources>
