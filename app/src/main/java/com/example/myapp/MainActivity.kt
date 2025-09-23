@@ -9,22 +9,12 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
-    var angkaBulat: Int = 0
-    fun hitung() {
-        angkaBulat++
-    }
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
-        val textView: TextView = findViewById(R.id.textView)
-        val btnHitung: Button = findViewById(R.id.tombol_hitung)
-
-        btnHitung.setOnClickListener {
-            hitung()
-            textView.text = angkaBulat.toString()
-        }
 
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
