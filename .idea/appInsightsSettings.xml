@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.myapp" />
+                  <option name="mobileSdkAppId" value="1:1003803911785:android:a41453c1583347d191e4f8" />
+                  <option name="projectId" value="boothtify-app" />
+                  <option name="projectNumber" value="1003803911785" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

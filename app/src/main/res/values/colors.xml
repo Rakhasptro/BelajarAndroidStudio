@@ -8,6 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="pink">#ff1493</color>
-    <color name="pink_muda">#ffb6c1</color>
+    <color name="ungu">#9441bd</color>
     <color name="transparent">#00FFFFFF</color>
+    <color name="grey">#e9e9e9</color>
 </resources>
