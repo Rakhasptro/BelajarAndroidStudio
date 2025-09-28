@@ -18,5 +18,11 @@
     <string name="full_name">Enter full name</string>
     <string name="get_started">Get Started</string>
     <string name="subTitle_sigin">Join now! Create your account in minutes and start capturing every important moment</string>
-    <string name="welcome_title">Halo! Welcome Back</string>
+    <string name="welcome_title">Hello!!</string>
+    <string name="cam">Camera</string>
+    <string name="upload_photo">Upload</string>
+    <string name="des_content1">Camera</string>
+    <string name="des_content2">Upload</string>
+    <string name="profil">Profil</string>
+    <string name="des_content3">Profil</string>
 </resources>
