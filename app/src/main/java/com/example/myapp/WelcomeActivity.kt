@@ -23,7 +23,7 @@ class WelcomeActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-        binding.signinButton.setOnClickListener {
+        binding.createAccountButton.setOnClickListener {
             val intent = Intent(this, SigninActivity::class.java)
             startActivity(intent)
         }
